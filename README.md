@@ -41,4 +41,5 @@ After calling : matrix^7; The Matrix becomes :
 
 (element no.7 replaced with 0+0i )
 
-iv) = : Assigns a Matrix Object to another Matrix reference (when called with 2 Matrix objects). And Creates a fresh List from a 2D array of ComplexInteger Objects. (when called from a matrix object and passed a 2D array of objects). v) * : Multiplies a scalar (ComplexInteger Object) to every element of the Matrix (when called with a ComplexInteger Object or a Real Integer). And Performs Matrix Multiplication for 2 matrices. (when called together with another Matrix Object).
+iv) = : Assigns a Matrix Object to another Matrix reference (when called with 2 Matrix objects). And Creates a fresh List from a 2D array of ComplexInteger Objects. (when called from a matrix object and passed a 2D array of objects). 
+v) * : Multiplies a scalar (ComplexInteger Object) to every element of the Matrix (when called with a ComplexInteger Object or a Real Integer). And Performs Matrix Multiplication for 2 matrices. (when called together with another Matrix Object).
